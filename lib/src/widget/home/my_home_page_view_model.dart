@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:pp_001/src/data/repositories/seoul_repository.dart';
 
 import '../../data/models/item.dart';
+import '../../data/repositories/seoul_repository.dart';
 import '../../util/log.dart';
 
 class MyHomePageViewModel with ChangeNotifier {

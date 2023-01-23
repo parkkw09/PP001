@@ -1,7 +1,6 @@
-import 'package:pp_001/src/data/models/seoul_cultural_event_info.dart';
-
 import '../../../util/log.dart';
 import '../../../util/network.dart';
+import '../../models/seoul_cultural_event_info.dart';
 
 class SeoulApi {
 

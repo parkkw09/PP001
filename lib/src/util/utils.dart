@@ -1,9 +1,9 @@
 import 'package:cherry_toast/cherry_toast.dart';
 import 'package:cherry_toast/resources/arrays.dart';
 import 'package:flutter/material.dart';
-import 'package:pp_001/src/data/models/seoul_cultural_event_info.dart';
 
 import '../data/models/item.dart';
+import '../data/models/seoul_cultural_event_info.dart';
 
 MaterialColor createMaterialColor(Color color) {
   List strengths = <double>[.05];

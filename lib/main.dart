@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:pp_001/src/widget/module/get_it_widget_modules.dart';
 import 'package:provider/provider.dart';
 
 import 'src/data/module/get_it_data_modules.dart';
 import 'src/widget/home/my_home_page.dart';
+import 'src/widget/module/get_it_widget_modules.dart';
 
 void main() {
   setupDataModules();

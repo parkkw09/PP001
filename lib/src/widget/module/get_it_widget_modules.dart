@@ -1,6 +1,7 @@
 import 'package:get_it/get_it.dart';
-import 'package:pp_001/src/data/module/get_it_data_modules.dart';
-import 'package:pp_001/src/widget/home/my_home_page_view_model.dart';
+
+import '../../data/module/get_it_data_modules.dart';
+import '../home/my_home_page_view_model.dart';
 
 void setupWidgetModules() {
   GetIt.instance.registerFactory<MyHomePageViewModel>(() =>
