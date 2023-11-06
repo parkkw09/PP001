@@ -30,7 +30,7 @@ class _MyHomePageState extends State<MyHomePage> {
           Expanded(
             child: Consumer<MyHomePageViewModel>(
               builder: (context, viewModel, __) {
-                return Text('');
+                return const Text('');
               },
             )
           ),
