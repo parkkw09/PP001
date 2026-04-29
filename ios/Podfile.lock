@@ -20,10 +20,10 @@ EXTERNAL SOURCES:
     :path: ".symlinks/plugins/shared_preferences_foundation/darwin"
 
 SPEC CHECKSUMS:
-  file_selector_ios: 8c25d700d625e1dcdd6599f2d927072f2254647b
+  file_selector_ios: b6f7c62dd6e792c5fa3e13a58446305b51b97928
   Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
-  shared_preferences_foundation: 5b919d13b803cadd15ed2dc053125c68730e5126
+  shared_preferences_foundation: 0b09b969fb36da5551c0bc4a2dbd9d0ff9387478
 
 PODFILE CHECKSUM: c4c93c5f6502fe2754f48404d3594bf779584011
 
-COCOAPODS: 1.12.1
+COCOAPODS: 1.16.2
